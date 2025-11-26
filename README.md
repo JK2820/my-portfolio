@@ -1,6 +1,6 @@
 # 🌐 My Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, Angular, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJs, Angular, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
 
 ---
 
@@ -12,9 +12,18 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 
 ---
 
+## 🧩 HTML & CSS Projects
+
+- [Robotico Digital](https://roboticodigital.com/)
+- [Lynsys Cloud Solution](https://lynsyscloud.com/)
+- [Innothrust](https://innothrust.com/)
+- [Simply Indian](https://simplyindian.my/)
+- [Autohome Products](https://autohomeproducts.com/)
+
+---
+
 ## ⚛️ React.js Projects
 
-- [Froth TestOps](https://frothtestops.com/) – Enterprise-level test management platform
 - [Froth CRM](https://frothcrm.com/) – Customer Relationship Management system
 - [Froth Desk](https://frothdesk.com/) – Support desk application
 - [Jaanvista Global](https://jaanvista.com/) – Business solutions platform
@@ -22,6 +31,16 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 - [DCF Saudi Arabia](https://dcf.sa/) – Corporate site
 
 ---
+
+## ▲ Next.js Projects
+- [Froth TestOps](https://frothtestops.com/)
+- [Technox Technologies](https://technox.in/)
+- [TakeFit Gym](https://takefitgym.com/)
+- [Clato KL](https://clato-kl.com/)
+- [Powerage Performance](https://powerageperformance.com/)
+- [Supera Chemicals](https://superachemicals.com/)
+
+  ---
 
 ## 🏢 Laravel & Blade Projects
 
@@ -31,6 +50,7 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 - [Robotico Digital](https://roboticodigital.com/)
 - [Jaanvista Global](https://jaanvista.com/)
 - [Shuki Exports](https://shukiexports.com/)
+- [Minvera Foods](https://minervafoods.in/)
 
 ---
 
@@ -59,6 +79,8 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 
 - [Fascino Dresses by Shyn](https://www.fascinodressesbyshyn.com/)
 - [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – React.js-based product showcase and branding
+- [Supera](https://supera.in/)
+- [FeelGoodNatures](https://feelgoodnatures.com/)
 
 ---
 
