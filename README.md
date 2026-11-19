@@ -1,24 +1,60 @@
-# 🌐 My Web Development Portfolio
+# 🌐 Jegadees K – Full Stack Developer Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, NextJs, Angular, Laravel, PHP, WordPress, JavaScript, HTML, CSS, Bootstrap**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
+Full Stack Developer with **4+ years of experience** building web, backend and mobile applications. I have worked on **30+ professional projects** using **React.js, Next.js, Angular, React Native, Node.js, Express.js, Laravel, PHP, WordPress, PostgreSQL, MySQL, Prisma ORM, Docker, Kubernetes**, and more.
+
+Below is a curated list of projects I've developed, designed, or contributed to.
+
+📧 [jegadees2820@gmail.com](mailto:jegadees2820@gmail.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/jegadeesk](https://linkedin.com/in/jegadeesk) &nbsp;|&nbsp; 📞 93455 24800
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| Full Stack Developer | [Innothrust](https://innothrust.com/) | Jan 2025 – Present |
+| Full Stack Developer | [Technox Technologies](https://technox.in/) | Mar 2022 – Dec 2024 |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js, Next.js, Angular
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, Express.js, PHP, Laravel, Livewire
+- **Database & ORM:** PostgreSQL, MySQL, Prisma ORM
+- **DevOps & Tools:** Docker, Kubernetes, Git, GitHub
+- **CMS:** WordPress
+
+---
+
+## 🚀 Recent Projects (Innothrust)
+
+### 1. Minthaa
+**Tech Stack:** Node.js, Express.js, PostgreSQL, Docker, Kubernetes  
+Backend API development and deployment, including ML service integration and containerised deployment on Kubernetes.
+
+### 2. SMAAQ
+**Tech Stack:** React.js, Node.js, Express.js, Prisma ORM, PostgreSQL  
+Business management application with dashboard development, accounting workflows, and data management.
+
+### 3. Lakshland Mobile App
+**Tech Stack:** React Native, Expo  
+Mobile application with authentication, navigation, and vendor application screens.
+
+> Source code for these projects is confidential; details can be shared on request.
 
 ---
 
 ## 📌 Featured Projects
 
-### 1. [Luxury Holidays Direct](https://www.luxuryholidaysdirect.com/)
+### [Luxury Holidays Direct](https://www.luxuryholidaysdirect.com/)
 **Tech Stack:** Angular 15/16, REST API, SSR  
 A dynamic luxury travel booking platform with advanced API integrations and SSR for high performance.
 
----
-
-## 🧩 HTML & CSS Projects
-
-- [Robotico Digital](https://roboticodigital.com/)
-- [Lynsys Cloud Solution](https://lynsyscloud.com/)
-- [Innothrust](https://innothrust.com/)
-- [Simply Indian](https://simplyindian.my/)
-- [Autohome Products](https://autohomeproducts.com/)
+### [Froth TestOps](https://frothtestops.com/)
+**Tech Stack:** Next.js / React.js  
+Enterprise-level test management platform.
 
 ---
 
@@ -33,6 +69,7 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 ---
 
 ## ▲ Next.js Projects
+
 - [Froth TestOps](https://frothtestops.com/)
 - [Technox Technologies](https://technox.in/)
 - [TakeFit Gym](https://takefitgym.com/)
@@ -40,7 +77,7 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 - [Powerage Performance](https://powerageperformance.com/)
 - [Supera Chemicals](https://superachemicals.com/)
 
-  ---
+---
 
 ## 🏢 Laravel & Blade Projects
 
@@ -50,23 +87,33 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 - [Robotico Digital](https://roboticodigital.com/)
 - [Jaanvista Global](https://jaanvista.com/)
 - [Shuki Exports](https://shukiexports.com/)
-- [Minvera Foods](https://minervafoods.in/)
+- [Minerva Foods](https://minervafoods.in/)
 
 ---
 
-## 🧘 WordPress & Business Sites
+## 🧩 HTML & CSS Projects
+
+- [Robotico Digital](https://roboticodigital.com/)
+- [Lynsys Cloud Solution](https://lynsyscloud.com/)
+- [Innothrust](https://innothrust.com/)
+- [Simply Indian](https://simplyindian.my/)
+- [Autohome Products](https://autohomeproducts.com/)
+
+---
+
+## 📝 WordPress & Business Sites
 
 - [Cosmic Yoga Hub](https://cosmicyogahub.com/)
 - [Technox Technologies](https://technox.in/)
 - [Minerva Academy](https://minervaacademyofeducation.com/)
 - [Srimuruganthirumana Mahal](https://srimuruganthirumanamahal.com/)
-- [Takefit Gym](https://takefitgym.com/)
+- [TakeFit Gym](https://takefitgym.com/)
 - [Tach Electronics](https://tachelectronics.com/)
 - [Shrivenkateshwara Diabetic Care](https://shrivenkateshwaradiabeticcare.com/)
 
 ---
 
-## 🏘 Real Estate & Services
+## 🏘️ Real Estate & Services
 
 - [Classic Escapes](https://classicescapes.in/)
 - [Sreedaksha Property](https://sreedaksha.com/)
@@ -84,18 +131,24 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 
 ---
 
-## 🧘‍♂️ Wellness & Yoga
+## 🧘 Wellness & Yoga
 
 - [My Yoga Place](https://myyogaplace.in/)
+- [Cosmic Yoga Hub](https://cosmicyogahub.com/)
 
 ---
 
-## 📁 How to Use This Repo
+## 📁 About This Repo
 
 This repository showcases a selection of live projects I've worked on.  
-**Note:** For some projects, source code cannot be shared due to client confidentiality. However, I can provide code samples and project details upon request.
+**Note:** For some projects, source code cannot be shared due to client confidentiality. Code samples and project details are available on request.
 
 ---
 
-📩 **Let's Collaborate!**  
-If you're interested in working together, feel free to reach out via GitHub or my contact details.
+## 📩 Let's Collaborate!
+
+If you're interested in working together, feel free to reach out:
+
+- 📧 Email: [jegadees2820@gmail.com](mailto:jegadees2820@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/jegadeesk](https://linkedin.com/in/jegadeesk)
+- 📞 Phone: 93455 24800
